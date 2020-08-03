@@ -1,0 +1,71 @@
+<html>
+<head>
+  <style>
+    p{
+      font-family:verdana;
+      font-size:20px;
+    }
+    h1{
+      font-family:verdana;
+      font-size:5em;
+    }
+    h2{
+      font-family:verdana;
+      font-size:3em;
+    }
+    body{
+      padding-bottom:100px;
+      margin: 0;
+      -ms-overflow-style: none;
+      scrollbar-width: none; 
+      background-image: url('back.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    body::-webkit-scrollbar{
+      display:none;
+    }
+    .NavHor{
+      position: fixed;
+      width: 100%;
+      list-style-type:none;
+      margin:0;
+      padding:0;
+      overflow: hidden;
+      background-color: black;
+      z-index:300;
+    }
+    .NavHorItens{
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -moz-user-select: none; 
+      -ms-user-select: none; 
+      user-select: none;
+      float:right;
+      display:block;
+      color:white;
+      text-align:center;
+      padding: 25px 50px;
+      
+      text-decoration: none;
+    }
+    .NavHorItens:active{
+      background-color:white;
+    }
+  </style>
+</head>
+<body>
+  <div class="NavHor" language="javascript">
+    <li class="NavHorItens" onclick="Contato(this);" onmouseover="onHover(this);" onmouseout="onOut(this);">Contactos</li>
+    <li class="NavHorItens" onclick="Cv(this);" onmouseover="onHover(this);" onmouseout="onOut(this);">Currículo</li>
+    <li class="NavHorItens" onclick="Port(this);" onmouseover="onHover(this);" onmouseout="onOut(this);">Portfólio</li>
+    <li class="NavHorItens" onclick="RedesSocial(this);" onmouseover="onHover(this);" onmouseout="onOut(this);">Redes Social</li>
+    <li id="itemHome" class="NavHorItens" onclick="Home(this);" onmouseover="onHover(this);" onmouseout="onOut(this);">Home</li>
+  </div>
+  
+  <div id="MassiveText" style="position:relative; top:90px; text-align:center; width:50%; margin:0 auto;"></div>
+  <script src="Pages.js"></script>
+  
+</body>
+</html>
