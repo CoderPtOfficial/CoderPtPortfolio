@@ -15,10 +15,10 @@ function Home(id){
 		</p>\
 		<p style="margin-top:25px;">\
 			<b>\
-			Sou programador e também técnico de eletrónica, programo desde os 15 anos\
-			, mas não possuo qualquer tipo de curso, aprendi tudo com livros, videos, blogs...\
-			, já a eletrónica frequentei um curso de eletrónica e telecomunicações\
-			 de nivel 4 em um curso científico-tecnológico de ensino secundário.\
+			Sou programador e tambem tecnico de eletronica, programo desde os 15 anos\
+			, mas nao possuo qualquer tipo de curso, aprendi tudo com livros, videos, blogs...\
+			, ja a eletronica frequentei um curso de eletronica e telecomunicacoes\
+			 de nivel 4 em um curso cientifico-tecnologico de ensino secundario.\
 			</b>\
 		</p>\
 	</div>\
@@ -40,9 +40,9 @@ function RedesSocial(id){
 			</a>\
 			<p>\
 				<b>\
-				No meu humilde canal, posto videos aleatórios sobre programação, hacking\
-				e eletrónica. Penso em trazer cursos, mas já exite diversos canais com esse tipo de conteúdo\
-				,ou seja, provavelmente não irei fazer, porém aulas de eletrónica e iot tentarei um dia.\
+				No meu humilde canal, posto videos aleatorios sobre programacao, hacking\
+				e eletronica. Penso em trazer cursos, mas ja exite diversos canais com esse tipo de conteudo\
+				,ou seja, provavelmente nao irei fazer, porem aulas de eletronica e iot tentarei um dia.\
 				</b>\
 			</p>\
 		</div>\
@@ -52,8 +52,8 @@ function RedesSocial(id){
 			</a>\
 			<p>\
 				<b>\
-				Não uso muito, mas se quiser pode dar um follow lá. Quem sabe se um dia viro\
-				um fã de social media.\
+				Nao uso muito, mas se quiser pode dar um follow la. Quem sabe se um dia viro\
+				um fa de social media.\
 				</b>\
 			</p>\
 		</div>\
@@ -63,8 +63,8 @@ function RedesSocial(id){
 			</a>\
 			<p>\
 				<b>\
-				Também tenho uma conta no passarinho, nunca faço postagens.\
-				Se quiseres segue lá.\
+				Tambem tenho uma conta no passarinho, nunca faço postagens.\
+				Se quiseres segue la.\
 				</b>\
 			</p>\
 		</div>\
