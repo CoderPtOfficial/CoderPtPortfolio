@@ -76,7 +76,7 @@ function RedesSocial(id){
 function Port(id){
 	clean(id,lastId);
 	document.getElementById("MassiveText").innerHTML='\
-		<h1>Portfólio</h1>\
+		<h1>Portfolio</h1>\
 		<div>\
 			<div>\
 				<a href="https://github.com/CoderPtOfficial" target="_blank">\
@@ -91,7 +91,7 @@ function Port(id){
 			<div>\
 				<p>\
 					<b>\
-					Atualmente não possuo um portfólio detalhado, mas já está em desenvolvimento.\
+					Atualmente nao possuo um portfólio detalhado, mas ja esta em desenvolvimento.\
 					</b>\
 				</p>\
 			</div>\
@@ -104,22 +104,22 @@ function Cv(id){
 	clean(id,lastId);
 
 	document.getElementById("MassiveText").innerHTML='\
-		<h1>Currículo</h1>\
+		<h1>Curriculo</h1>\
 		<div style=margin-top:50px>\
 			<div style=margin-top:50px>\
-				<p><b>Currículo detalhado com foto apenas por contato</b></p>\
+				<p><b>Curriculo detalhado com foto apenas por contato</b></p>\
 				<div style=margin-top:50px>\
 					<h2 style=margin-top:25px>\
-						Linguagens de programação\
+						Linguagens de programacao\
 					</h2>\
 					<p>\
 						<b>\
-						As linguagens de meu dominio são: C++ , C, C#, Python, Java.\
+						As linguagens de meu dominio sao: C++ , C, C#, Python, Java.\
 						</b>\
 					</p>\
 					<p>\
 						<b>\
-						Porém caso necessário posso programar em qualquer outra linguagem.\
+						Porem caso necessario posso programar em qualquer outra linguagem.\
 						Aprender não é problema.\
 						</b>\
 					</p>\
@@ -128,20 +128,20 @@ function Cv(id){
 					</h2>\
 					<p>\
 						<b>\
-						Prefiro trabalhar em áreas como: Game Dev Multiplataforma, Android App,\
+						Prefiro trabalhar em areas como: Game Dev Multiplataforma, Android App,\
 						Winforms ,Microcontroladores.\
 						</b>\
 					</p>\
 					<p>\
 						<b>\
-						Contudo adoraria poder trabalhar em áreas como: Hybrid Apps.\
+						Contudo adoraria poder trabalhar em areas como: Hybrid Apps.\
 						</b>\
 					</p>\
 					<h2 style=margin-top:100px>Hacking</h2>\
 					<p>\
 						<b>\
-						Apesar de ainda ser particularmente novo (mais de um ano), já estou a aprimorar os\
-						meus conhecimentos e posso dizer que tenho vários conceitos bem cimentados\
+						Apesar de ainda ser particularmente novo (mais de um ano), ja estou a aprimorar os\
+						meus conhecimentos e posso dizer que tenho varios conceitos bem cimentados\
 						</b>\
 					</p>\
 				</div>\
@@ -163,7 +163,7 @@ function Contato(id){
 			</p>\
 			<p>\
 				<b>\
-					Porém se preferir pode contactar através destas redes sociais.\
+					Porem se preferir pode contactar atraves destas redes sociais.\
 				</b>\
 			</p>\
 			<div>\
